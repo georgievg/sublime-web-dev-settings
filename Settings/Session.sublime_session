@@ -1,0 +1,448 @@
+{
+	"folder_history":
+	[
+		"/home/georgi/Dropbox/Telerik/SliceAndDice/ExampleExam/Sliced/img"
+	],
+	"last_window_id": 1,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"css",
+						"css-standart-reset	css-reset"
+					],
+					[
+						"reset",
+						"reset	Eric Meyer's Reset CSS"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/georgi/Dropbox/Telerik/SliceAndDice/ExampleExam/Sliced/index.html",
+					"settings":
+					{
+						"buffer_size": 557,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\nhtml, body, div, span,h1, h2, h3, h4, h5, h6, p,a,img,form, label,article, aside, footer, header,nav, section{\n	margin: 0;\n	padding: 0;\n	border: 0;\n	font-size: 100%;\n	font: inherit;\n	vertical-align: baseline;\n}\narticle, aside,footer, header, nav, section {\n	display: block;\n}\nbody {\n	line-height: 1;\n}\na{\n	text-decoration:none;\n}\nol, ul {\n	list-style: none;\n}\n.clear:after{\n	content: \"\";\n	clear:both;\n	display:block;\n}\n\n/*=========================================================\n=													      =\n= 		  		       #WRAPPER						      =\n=														  =\n=========================================================*/\n\n#wrapper{\n\n}\n\n/*=========================================================\n=													      =\n= 		  		       #WEB-HEADER						  =\n=														  =\n=========================================================*/\n\n#web-header{\n\n}\n\n	/*=====================================================\n	= 		  		       #WEB-NAV      				  =	\n	=====================================================*/\n\n	#web-nav{\n		\n	}\n\n\n/*=========================================================\n=													      =\n= 		  		       #WEB-CONTENT						  =\n=														  =\n=========================================================*/\n\n#web-content{\n\n}\n\n/*=========================================================\n=													      =\n= 		  		       #WEB-FOOTER						  =\n=														  =\n=========================================================*/\n\n#web-footer{\n\n}",
+					"file": "/home/georgi/Dropbox/Telerik/SliceAndDice/ExampleExam/Sliced/style.css",
+					"file_size": 1452,
+					"file_write_time": 1367752705000000,
+					"settings":
+					{
+						"buffer_size": 1452,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "var asd = 5;\n",
+					"file": "/home/georgi/Dropbox/Telerik/SliceAndDice/ExampleExam/Sliced/img/script.js",
+					"file_size": 0,
+					"file_write_time": 1367753940000000,
+					"settings":
+					{
+						"buffer_size": 13,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 72.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instlal",
+						"Snippet: font-style:italic"
+					],
+					[
+						"Snippet: reset",
+						"Snippet: Eric Meyer's Reset CSS"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/georgi/.config/sublime-text-2/Packages/User/css-reset.sublime-snippet",
+				"/home/georgi/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/home/georgi/.config/sublime-text-2/Packages/User/html-standard.sublime-snippet",
+				"/home/georgi/Dropbox/Telerik/SliceAndDice/ExampleExam/Sliced/style.css",
+				"/home/georgi/Dropbox/Telerik/SliceAndDice/ExampleExam/Sliced/index.html",
+				"/home/georgi/index.html",
+				"/home/georgi/style.css",
+				"/home/georgi/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/georgi/Dropbox/Telerik/SliceAndDice/ExampleExam/Sliced/img"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/georgi/Dropbox/Telerik/SliceAndDice/ExampleExam/Sliced/index.html",
+							"settings":
+							{
+								"buffer_size": 557,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										533,
+										533
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/home/georgi/Dropbox/Telerik/SliceAndDice/ExampleExam/Sliced/style.css",
+							"settings":
+							{
+								"buffer_size": 1452,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										487,
+										487
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"rulers":
+									[
+									],
+									"spell_check": true,
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 45.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/georgi/Dropbox/Telerik/SliceAndDice/ExampleExam/Sliced/img/script.js",
+							"settings":
+							{
+								"buffer_size": 13,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13,
+										13
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,0,0,0,0,1280,1024",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

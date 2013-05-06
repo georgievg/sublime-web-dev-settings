@@ -1,0 +1,83 @@
+<snippet>
+	<content><![CDATA[
+
+html, body, div, span,h1, h2, h3, h4, h5, h6, p,a,img,form, label,article, aside, footer, header,nav, section{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside,footer, header, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+a{
+	text-decoration:none;
+}
+ol, ul {
+	list-style: none;
+}
+.clear:after{
+	content: "";
+	clear:both;
+	display:block;
+}
+
+/*=========================================================
+=													      =
+= 		  		       #WRAPPER						      =
+=														  =
+=========================================================*/
+
+#wrapper{
+
+}
+
+/*=========================================================
+=													      =
+= 		  		       #WEB-HEADER						  =
+=														  =
+=========================================================*/
+
+#web-header{
+
+}
+
+	/*=====================================================
+	= 		  		       #WEB-NAV      				  =	
+	=====================================================*/
+
+	#web-nav{
+		
+	}
+
+
+/*=========================================================
+=													      =
+= 		  		       #WEB-CONTENT						  =
+=														  =
+=========================================================*/
+
+#web-content{
+
+}
+
+/*=========================================================
+=													      =
+= 		  		       #WEB-FOOTER						  =
+=														  =
+=========================================================*/
+
+#web-footer{
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>css-standard</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

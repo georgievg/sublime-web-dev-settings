@@ -1,0 +1,38 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Autocomplete Javascript with Method Signature",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS Color Converter",
+		"CSS Media Query Snippets",
+		"CSS Snippets",
+		"CSSLint",
+		"CTags",
+		"CTags for PHP",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"HTML5 Doctor CSS Reset snippet",
+		"HTMLBeautify",
+		"JavaScript Console",
+		"JavaScript Snippets",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Package Control",
+		"PhpBeautifier",
+		"Phpcs",
+		"PhpTidy",
+		"PHPUnit",
+		"PowershellUtils",
+		"Search WordPress Codex",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Six - Future JavaScript Syntax",
+		"SublimeCodeIntel",
+		"WordHighlight",
+		"Wordpress",
+		"WordpressDev"
+	]
+}
